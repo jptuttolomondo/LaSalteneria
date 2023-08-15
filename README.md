@@ -16,7 +16,7 @@ Desde el punto de vista del Mozo, tendrá un login, recibirá los pedidos de  lo
 Desde la posición de dueño, tendrá una posición de admin, lo cual lo habilita para realizar cualquier tarea, administrar productos , ofertas , modificar precios, ver los movimientos de caja , ver el stock.
 
 El usuario podrá descargar la app desde PlayStore, una versión para clientes.
-Las app de mozos/owner estarán alojadas onCloud. 
+Las app de mozos/owner estarán alojadas onCloud.  
 
 ## Proyecciones
 Una vez probada la aplicación y revisado sus fortalezas y debilidades, Se puede plantear una ampliación de prestaciones del sistema:
