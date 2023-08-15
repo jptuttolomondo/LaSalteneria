@@ -14,6 +14,7 @@ Se dispondrá de una sala de chat para consultas y contacto, donde el Mozo (o co
 Desde el punto de vista del Mozo, tendrá un login, recibirá los pedidos de  los clientes, podrá chatear con el cliente, tendrá una lista de pedidos, cambiará el estado del pedido de pendiente a listo/pagado/entregado.
 
 Desde la posición de dueño, tendrá una posición de admin, lo cual lo habilita para realizar cualquier tarea, administrar productos , ofertas , modificar precios, ver los movimientos de caja , ver el stock.
+
 El usuario podrá descargar la app desde PlayStore, una versión para clientes.
 Las app de mozos/owner estarán alojadas onCloud. 
 
