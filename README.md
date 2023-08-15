@@ -1,7 +1,8 @@
 # LaSalteneria
 App para entrega de pedidos para llevar de La Salteñería Casa de comidas
 
-![image](https://github.com/jptuttolomondo/LaSalteneria/assets/92340417/0033bc00-642e-4ba1-8fd7-e2f13ed13163)
+![image](https://github.com/jptuttolomondo/LaSalteneria/assets/92340417/f92a38b9-41e7-4e0d-b3ea-137199c8fbbd)
+
 
 # OBJETIVO: 
 La agilización del sistema de entregas del negocio de comidas La Salteñeria, ubicado en La ciudad de Salta.
